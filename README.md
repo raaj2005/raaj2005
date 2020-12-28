@@ -15,6 +15,6 @@ Skills: PYTHON / HTML / CSS/WEB-DEVELOPMENT/CODING
 
 ![Profile views](https://gpvc.arturio.dev/raaj2005)  
 
--social-medai
+Social-Media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raaj2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raj.s.05/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](raaj.ga)  
