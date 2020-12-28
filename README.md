@@ -5,7 +5,7 @@
 #### I am front-end web-developer
 I am a young web-developer based in British Columbia, Canada.
 
-<img src="https://media2.giphy.com/media/vGU8HPEygX9D2/giphy.gif" width="750px">
+<img src="https://media2.giphy.com/media/vGU8HPEygX9D2/giphy.gif" width="800px">
 
 Skills: PYTHON / HTML / CSS/WEB-DEVELOPMENT/CODING
 
